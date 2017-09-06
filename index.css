@@ -1,0 +1,22 @@
+body {
+	background-color: #000000;
+}
+
+h1 {
+	font-size: 8em;
+	color: #F28705;
+	text-align: center;
+}
+h4 {
+	color: #F28705;
+	text-align: center;
+}
+
+section {
+	text-align: center;
+}
+
+article {
+	margin: 25px;
+
+}
